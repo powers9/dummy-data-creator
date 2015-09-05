@@ -1,0 +1,1 @@
+Most of the time during web developement developers don't have actual service to test there front end. This utility project will help create dynamic dummy data for testing purpose. One just have to provide POJO class to the  API and it will create its object pre-populated with data.
